@@ -8,15 +8,16 @@ This is a project based on a JavaScript tutorial found on YouTube [here](https:/
 *N/A, I don't wanna put in the effort yet*
 
 
-## Table of Contents
+## Table of Contents 
 ***
 - [Preview](#preview)
 - [Modifcations](#modifications)
 - [Contributing](#contributing)
+- [Setup](#setup)
 - [Technologies](#technologies)
 - [License](#license)
 ***
-
+ 
 
 ## Preview
 
