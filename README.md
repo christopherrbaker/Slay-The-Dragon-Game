@@ -1,6 +1,4 @@
-
 ![](frontlogo.gif)
-
 # Slay The Dragon
 
 This is a project based on a JavaScript tutorial found on YouTube [here](https://www.youtube.com/watch?v=nu_pCVPKzTk&ab_channel=freeCodeCamp.org). The live version of the project can be accessed at [http://chrisdoesthings.online/SlayTheDragon].
