@@ -1,10 +1,12 @@
 ![](frontlogo.gif)
 # Slay The Dragon
 
-This is a project based on a JavaScript tutorial found on YouTube [here](https://www.youtube.com/watch?v=nu_pCVPKzTk&ab_channel=freeCodeCamp.org). The live version of the project can be accessed at [http://chrisdoesthings.online/SlayTheDragon].
+This is a project based on a JavaScript tutorial found on YouTube [here](https://www.youtube.com/watch?v=nu_pCVPKzTk&ab_channel=freeCodeCamp.org). The live version of the project can be accessed at [chrisdoesthings.online/SlayTheDragon](http://chrisdoesthings.online/SlayTheDragon).
+
 
 ## Game Description
 *N/A, I don't wanna put in the effort yet*
+
 
 ## Table of Contents
 ***
@@ -15,9 +17,10 @@ This is a project based on a JavaScript tutorial found on YouTube [here](https:/
 - [License](#license)
 ***
 
+
 ## Preview
 
-You can view what the game looks like after the tutorial and before my modifications in the 'Tutorial' directory or by visiting https://chrisbaker.dev/portfolio/SlayTheDragon/tutorial/.
+You can view what the game looks like after the tutorial and before my modifications in the 'Tutorial' directory or by visiting [chrisbaker.dev/portfolio/SlayTheDragon/tutorial](https://chrisbaker.dev/portfolio/SlayTheDragon/tutorial/).
 
 
 ## Modifications
