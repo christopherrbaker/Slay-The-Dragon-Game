@@ -1,0 +1,113 @@
+html, body {
+    height: 100%;
+  }
+body {
+    background-color: rgb(0, 9, 43);
+}
+
+  .main {
+    height: 100%;
+    width: 100%;
+    display: table;
+  }
+
+  .wrapper {
+    display: table-cell;
+    height: 100%;
+    vertical-align: middle;
+  }
+  
+  #text {
+    background-color: black;
+    color: white;
+    padding: 10px;
+  }
+
+  img#mainImage {
+    display: block;
+    margin: 0 auto;
+  }
+
+  video#locationHeader {
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 50px;
+  }
+  
+  #game {
+    max-width: 1000px;
+    max-height: 2000px;
+    background-color: lightgray;
+    color: white;
+    margin: 0 auto;
+    padding: 10px;  
+  }
+  
+  #controls {
+    border: 1px black solid;
+    padding: 5px;
+    text-align: center;
+  }
+
+  #controls button {
+    background-color: rgb(0, 9, 43);
+    border: none;
+    color: white;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 0 10px;
+  }
+
+  #controls button:hover {
+    background-color: rgb(28, 49, 117);
+  }
+  
+  #stats {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px black solid;
+    color: black;
+    padding: 10px;
+    margin-bottom: 10px;
+    position: relative;
+  }
+
+  #health-bar {
+    position: relative;
+    top: 10px;
+    left: 10px;
+    height: 20px;
+    width: 100%;
+    margin: 10px 0;
+    background-color: gray;
+  }
+  
+  #health-bar-fill {
+    height: 100%;
+    background-color: green;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    transition: width 0.2s;
+  }
+  
+  #monsterStats {
+    display: none;
+    border: 1px black solid;
+    color: white;
+    padding: 5px;
+    background-color: red;
+  }
+  
+  .stat {
+    padding-right: 10px;
+    font-weight: bold;
+  }
+
+  .stat span {
+    font-weight: normal;
+  }
