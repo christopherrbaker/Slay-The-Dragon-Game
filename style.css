@@ -170,25 +170,11 @@ body {
   }
 
   .footer {
-    display: flex;
-    justify-content: flex-end;
+    position: relative;
+    padding-top: 25px;
+    margin-top: 25px;
     align-items: center;
-    position: fixed;
-    top: 5px;
-    right: 15px;
-    background-color: transparent;
-    color: #fff;
-    height: 100px;
-  }
-  
-  .footer a {
-    display: inline-block;
-    font-size: 2rem;
-    padding: 1rem;
-    color: #fff;
-    text-decoration: none;
-    cursor: pointer;
-    animation: none;
+    text-align: center;
   }
   
   
